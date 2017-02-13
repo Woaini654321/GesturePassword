@@ -2,8 +2,8 @@
 //  LockView.m
 //  Clip
 //
-//  Created by 晏玉龙 on 2017/2/13.
-//  Copyright © 2017年 晏玉龙. All rights reserved.
+//  Created by Yan on 2017/2/13.
+//  Copyright © 2017年 Yan. All rights reserved.
 //
 
 #import "LockView.h"
